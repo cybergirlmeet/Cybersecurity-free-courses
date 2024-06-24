@@ -1,7 +1,7 @@
 import requests
 
 # Your API key and Custom Search Engine ID
-API_KEY = 'AIzaSyDXpY9FaFIARhokVdlaqFpvSG7iCMKNc7Y'
+API_KEY = 'At'
 CSE_ID = '6358973b21c264f0d'
 
 def google_search(query, api_key, cse_id, **kwargs):
